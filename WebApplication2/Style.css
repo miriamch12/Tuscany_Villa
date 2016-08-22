@@ -1,0 +1,225 @@
+﻿
+.page-header{
+    text-align: center;
+    background-color: #D1D3D1;
+
+     margin-top: 0px;
+    padding-top: 3px;
+    
+    margin-bottom: 0px;
+}
+.page-header h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 80px;
+     
+}
+ .page-header h3 {
+        font-family: 'Allura', cursive;
+        font-size: 40px;
+       
+    } div.container{
+     margin-left: 0px;
+     padding-left: 0px;
+     margin-right: 0px;
+     width: auto;
+     padding-right: 0px;
+
+ }
+  #tree{
+     float:left;
+     font-size: 40px;
+     margin-bottom:0px;
+     line-height:40px;
+     color: white;
+     background-color:#52AEA0;
+     height: 60px;
+     padding-top: 10px;
+ }
+  .navbar-brand{
+    font-size: 12px;
+    background-color:#52AEA0;
+    height: 60px;
+    margin-bottom: 0px;
+    
+}
+
+  .navbar a:hover{
+      background-color: none;
+  }
+
+  .navbar-right{
+       background-color:#83BDDA;
+       height: 60px;
+       width: 100px;
+       padding-right: 10px;
+       padding-left: 10px;
+       padding-top: 17px;
+  }
+
+  .navbar .navbar-nav{
+      display: inline-block;
+      float: none;
+      text-align:center;
+
+  }
+
+  .navbar .navbar-collapse{
+      text-align:center;
+      margin-left:0px;
+      margin-right:0px;
+  }
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+    padding-right: 15px;
+}
+
+#middle{
+    text-align: center;
+}
+#tuscany {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    height: 400px;
+}
+
+#verislia {
+    background-image: url('Images/Versilia.jpg');
+    background-size: cover;
+    height: 400px;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+#first_box {
+    background-image: url('Images/img-thing.jpg');
+    background-size: cover;
+    height: 348px;
+    border:1px solid;
+
+}
+
+#second_box {
+    background-image: url('Images/Tartufo_020_In_Evening_Sun.jpg');
+    border: 1px solid;
+background-size: cover;
+    height: 348px;}
+#third_box {
+    background-image: url('Images/3b-348x348.jpg');
+    border:1px solid;
+    background-size: cover;
+    height: 348px;
+}
+#fourth_box{
+    background-image: url('Images/314-348x348.jpg');
+    border:1px solid;
+    background-size: cover;
+    height: 348px;
+}
+.thumbnail a>img, .thumbnail>img{
+    width:100%;
+}
+.col-xs-12{
+    padding-left:0px;
+    padding-right:0px;
+}
+.col-md-3{
+    padding-left:0px;
+    padding-right:0px;
+}
+.thumbnail{
+    margin-bottom: 0px;
+}
+
+#blank {
+    background-image: url('Images/img-thing.jpg');
+    background-size:cover;
+}
+
+.footer{
+    background-color: #DDE9E8;
+    padding: 20px 20px 20px 20px;
+    
+}
+#tree-bottom{
+    float:left;
+    color: #818888;
+    font-size: 25px;
+    line-height: 28px;
+    margin-bottom: 0px;
+    
+}
+
+#text-muted{
+    font-size: 5px;
+}
+
+div.tex-muted{
+    margin-bottom: 0px;
+}
+
+.post-content{
+    top:60px;
+    left: 60px;
+    position: absolute;
+}
+.thumbnail{
+    position:relative;
+}
+
+#line_one{
+    font-weight:bold;
+    
+
+}
+#tuscany_text {
+    position: center;
+    padding-top: 125px;
+}
+#text{
+
+
+    background: rgb(54, 25, 25); /* Fall-back for browsers that don't
+                                    support rgba */
+    background: rgba(54, 25, 25, .5);
+    margin-left: 200px;
+
+}
+
+#verisllia_text{
+    width: 250px;
+    position: center;
+    padding-top: 125px;
+}
+
+#text_verillia{
+    background-color: white;
+     margin-left: 100px;
+
+}
+
+.post-content-transparent{
+     background: rgb(54, 25, 25); 
+    background: rgba(54, 25, 25, .5);
+    margin-left: 20px;
+    top:60px;
+    left: 60px;
+    position: absolute;
+}
+
+.post-content-transparent-bottom{
+
+     background: rgb(54, 25, 25); 
+    background: rgba(54, 25, 25, .5);
+    margin-left: 20px;
+    bottom:20px;
+    left: 60px;
+    position: absolute;
+}
+
+
+#post-content-blue{
+    top:0px;
+    left: 0px;
+    position: absolute;
+    
+}
